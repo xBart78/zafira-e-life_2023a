@@ -1,0 +1,93 @@
+16.01.2023 - Zafira-e Life_2023A
+kopia 2022B --> 2023A
+ukryłem trimy FAMILY / FAMILY ELITE
+
+BUSINESS
+10U - dodałem jako opcję za 0.00
+10U - dodałem nazwę dla 07
+10U - dodałem (avail) w zakładce COLORS/TRIMS (do wszystkich trimów)
+G4O, G4I - zmieniłem nazwę dla 07
+G7O - usunąłem nazwę dla 07
+TAYH - dodałem kategorię i nazwę
+TAVN - dodałem nazwę dla 07
+AGE, A64, ARN - ustawiłem jako opcję za 0.00
+!AGE only av with TAVN
+TAVN force on AGE - dodałem zapisy!
+!A64 only av with TAVN
+TAVN force on A64 - dodałem zapisy!
+!ARN only av with TAVN
+TAVN force on ARN - dodałem zapisy!
+TAYH - dodałem do oferty jako opcję płatną
+TAYH - dodałem w zakładce COLORS/TRIMS
+10U - dodałem jako DEFAULT COLOR w zakładce OVERVIEW (wszystkie trimy)
+AQR - zmieniłem na opcję za 0.00
+AQR - dodałem D6K jako składową
+AQR - składowe jako STANDARD
+D6K only av with AQR - odpiąłem zapis
+D6K - ukryłem jako oddzielną opcję
+!AQR+TAYH$0.00
+TAYH force on AQR - dodałem zapisy!
+A63 - dodałem nazwę dla 07
+A63 - dodałem jako opcję za 0.00
+!A63 only av with TAYH
+TAYH force on A63 - dodałem zapisy!
+AWM - dodałem jako opcję za 0.00
+!AWM only av with TAYH
+TAYH force on AWM - dodałem zapisy!
+KA1 - odkryłem i ustawiłem jako opcję za 0.00
+!KA1 only av with TAYH
+TAYH force on KA1 - dodałem zapisy!
+DE8 - ustawiłem jako S
+DE8 only av with TAYH - dodałem zapis
+B48 - ustawiłem jako S
+B48 only av with TAYH - dodałem zapis
+B35 - dodałem jako S
+B35 only av with TAYH - dodałem zapis
+XN34 - dodałem jako DUMMYCODE
+XN34 - nadałem kategorię i nazwę
+XN34 - dodałem do oferty jako opcję / pakiet płatny
+N34 - odpiąłem nazwę dla 07_2023A, dodałem nazwę dla 07
+XN34 - dodałem składowe
+H4H, OGU, OGX, UD5 - odpiąłem z oferty
+XN34 - ukryłem UC3
+XN34 - uporządkowałem składowe
+XN34 overrules NK5 - dodałem zapis
+UDQ - dodałem nazwę dla 07
+UDQ - dodałem do oferty jako opcję płatną
+UDQ - dodałem UD5 jako składową
+UDQ overrules UD7 - dodałem zapis
+IO6 - usunąłem UV7
+IO6 - dodałem UL3, podpiąłem UC3
+UV7 only av with IO6/IO5 - odpiąłem zapis
+IO6 - dodałem U0R do składowych
+IO6 - ustawiłem cenę IO6+U0R
+IO6 - uporządkowałem składowe
+IO6 overrules UD7 - dodałem zapis
+C7C - dodałem CJ2 jako składową
+C7C not av with C06 - odpiąłem zapis
+C7C overrules C60 - dodałem zapis
+XJ20 - dodałem jako DUMMYCODE
+XJ20 - dodałem kategorię i nazwę
+XJ20 - dodałem składowe
+XJ20 - uporządkowałem składowe
+WQX - ustawiłem jako opcję za 0.00
+WQX - odpiąłem wszystkie istniejące restrykcje
+WQX only av with XJ20 - dodałem zapis
+XJ20 force on WQX - dodałem zapis
+XJ20 overrules RVE - dodałem zapis
+XJ20 - dodałem DESCRIPTION
+A9B - edytowałem DESCRIPTION
+IO6 - dodałem nazwę i DESCRIPTION dla 07
+AEF - podpiąłem jako ukrytą opcję
+AY2 - dodałem nazwę dla 07
+B26 - dodałem nazwę i DESCRIPTION dla 07
+C95, TTB, TR0 - ukryłem
+E9A - dodałem AKX do składowych (jako BASE)
+EQ9 - dodałem jako S
+IO5 - dodałem nazwę i DESCRIPTION dla 07
+J1U, KTF - edytowałem nazwę
+K34 - odkryłem
+RVEW2Q - dodałem do oferty jako S
+RVEW2Q - odpiąłem Q25, dodałem QCT, *odpiąłem RVE (?)
+*RVE - odpiałem z oferty (?)
+
