@@ -101,3 +101,31 @@ TAYH - dodałem składowe (0L2/80I/OLD)
 GAC - odpiąłem z zakładki COLORS/TRIMS
 G7O - dodałem w zakładce COLORS/TRIMS w BUSINESS EXTRA LONG
 GAC - odpiąłem z oferty
+RVE - dodałem składowe (W2Q+QCT) i dodałem do oferty jako S
+dodałem ceny MPV
+
+BUSINESS VIP
+G7O - podpiąłem w zakładce COLORS/TRIMS
+GAC - odpiąłem w zakładce COLORS/TRIMS
+GAC - odpiałem z oferty
+A63 - dodałem do oferty jako S
+AWM - zmieniłem z opcji płatnej na S
+AW2 - dodałem składową TRD (jako BASE)
+AW2, AXA - zmieniłem z S na opcję płatną
+AXA - dodałem składowe (AW2+TRD)
+AXA overrules AW2 - dodałem zapis
+AWM overrules AXA/B48 - odpiąłem zapisy
+AW2 overrules A63 - dodałem zapis
+AXA overrules AWM - dodałem zapis
+AXA overrules B48 - dodałem zapis
+UD5 - odpiąłem z oferty
+UDQ - dodałem jako opcję płatną
+UDQ - dodałem UD5 jako składową
+UDQ overrules UD7 - dodałem zapis
+C06 - dodałem nazwę i DESCRIPTION dla 07
+C06 force on J20 - dodałem zapis
+J20 - ustawiłem jako opcję za 0.00
+J20 only av with C06 - dodałem zapis
+J20 - dodałem nazwę dla 07
+T7E - edytowałem nazwę
+6Q2, 8J4 - ukryłem
