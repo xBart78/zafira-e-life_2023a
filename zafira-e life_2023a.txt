@@ -162,3 +162,6 @@ NK5 - ukryłem w wersji BUSINESS
 B26 - zmieniłem nazwę, usunąłem DESCRIPTION dla 07
 Z11 - odpiąłem z oferty
 Z10, Z09, Z07- zmieniłem / edytowałem nazwę
+CJ2, QQ5 - odpiąłem w wersji BUSINESS (!)
+B26 - składowe jako STANDARD
+
