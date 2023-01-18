@@ -62,6 +62,7 @@ UV7 only av with IO6/IO5 - odpiąłem zapis
 IO6 - dodałem U0R do składowych
 IO6 - ustawiłem cenę IO6+U0R
 IO6 - uporządkowałem składowe
+IO6 - ukryłem UC3
 IO6 overrules UD7 - dodałem zapis
 C7C - dodałem CJ2 jako składową
 C7C not av with C06 - odpiąłem zapis
@@ -95,6 +96,7 @@ G2O - odpiąłem z oferty
 
 
 17.01.2023 - Zafira-e Life_2023A/cd
+BUSINESS/cd
 XJ20 overrules XN34_A15 - dodałem zapis
 DFO overrules XN34_ATH - dodałem zapis
 TAYH - dodałem składowe (0L2/80I/OLD)
@@ -103,6 +105,7 @@ G7O - dodałem w zakładce COLORS/TRIMS w BUSINESS EXTRA LONG
 GAC - odpiąłem z oferty
 RVE - dodałem składowe (W2Q+QCT) i dodałem do oferty jako S
 dodałem ceny MPV
+ATH, DD8, T4F - odpiąłem z oferty
 
 BUSINESS VIP
 G7O - podpiąłem w zakładce COLORS/TRIMS
@@ -110,7 +113,7 @@ GAC - odpiąłem w zakładce COLORS/TRIMS
 GAC - odpiałem z oferty
 A63 - dodałem do oferty jako S
 AWM - zmieniłem z opcji płatnej na S
-AW2 - dodałem składową TRD (jako BASE)
+AW2 - dodałem składową TRD (jako STANDARD)
 AW2, AXA - zmieniłem z S na opcję płatną
 AXA - dodałem składowe (AW2+TRD)
 AXA overrules AW2 - dodałem zapis
@@ -129,3 +132,33 @@ J20 only av with C06 - dodałem zapis
 J20 - dodałem nazwę dla 07
 T7E - edytowałem nazwę
 6Q2, 8J4 - ukryłem
+
+
+18.01.2023 - Zafira-e Life_2023A/cd
+BUSINESS VIP/cd
+AEF - dodałem jako S, ukryłem
+DFO - dodałem ATH jako składową (jako STANDARD)
+ATH - odpiąłem z oferty
+C7C - dodałem CJ2 jako składową(jako STANDARD)
+CJ2 - odpiąłem z oferty
+CG1 - ukryłem
+EQ9 - dodałem do oferty jako S
+H4H ustawiłem jako S
+IO6 - dodałem U0R i UL3 jako składowe
+K34 - odkryłem
+WQX - dodałem QCT, odpiąłem Q0M
+WQX, RVE - zmieniłem rodzinę z WHL na C00 lokalnie 07_2023A
+dodałem ceny MPV
+TRD, AWM, UL3, APT, U0R - odpiąłem z oferty
+B48 - ustawiłem jako S
+
+UV7 - odpiąłem ze wszystkich trimów
+WQX - składowa jako STANDARD
+RVE - składowe jako STANDARD
+J20 - odpiąłem z wersji BUSINESS
+B48/B35/DE8 - ustawiłem zapis ...NOT AV WITH TAVN zamiast ...ONLY AV WITH TAYH
+DFL - odpiąłem z wersji BUSINESS
+NK5 - ukryłem w wersji BUSINESS
+B26 - zmieniłem nazwę, usunąłem DESCRIPTION dla 07
+Z11 - odpiąłem z oferty
+Z10, Z09, Z07- zmieniłem / edytowałem nazwę
