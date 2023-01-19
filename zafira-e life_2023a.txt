@@ -165,3 +165,24 @@ Z10, Z09, Z07- zmieniłem / edytowałem nazwę
 CJ2, QQ5 - odpiąłem w wersji BUSINESS (!)
 B26 - składowe jako STANDARD
 
+
+19.01.2023 - Zafira-e Life_2023A/cd
+POPRAWKI
+Z08 - odpiąłem z oferty
+zmieniłem nazwy silników w zakładce MOTORS/TRANSMISSIONS
+A15, AKO - edytowałem nazwę
+A15 - odpiąłem z oferty w BUSINESS
+B35 - dodałem do wersji BUSINESS jako S
+AWM/ARN + A63/A64 - edytowałem nazwy
+B48 - ukryłem we wszystkich trimach
+DE8 - ustawiłem jako opcję za 0.00
+DE8 not av with TAVN - usunąłem zapis
+!DE8 only av with TAYH
+TAYH force on DE8- dodałem zapisy!
+D31, Z12 - ukryłem
+XN34 - zmieniłem kategorię
+K23 - usunąłem nazwę dla 07
+U0R - podpiąłem do oferty
+U0R only av with IO5 - dodałem zapis
+AF6 - zmieniłem nazwę
+Z14 - ukryłem
