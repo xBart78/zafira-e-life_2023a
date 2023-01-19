@@ -173,7 +173,7 @@ zmieniłem nazwy silników w zakładce MOTORS/TRANSMISSIONS
 A15, AKO - edytowałem nazwę
 A15 - odpiąłem z oferty w BUSINESS
 B35 - dodałem do wersji BUSINESS jako S
-AWM/ARN + A63/A64 - edytowałem nazwy
+AWM/ARN + A63/A64 + AW2, C7C - edytowałem nazwy
 B48 - ukryłem we wszystkich trimach
 DE8 - ustawiłem jako opcję za 0.00
 DE8 not av with TAVN - usunąłem zapis
